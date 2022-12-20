@@ -1,3 +1,3 @@
 #### [ElixirNote](https://elixirnote.github.io/elixir-web) 💥
 
-![](/profile/guinsoo-ecosystem-elixir.png)
+![](/profile/elixir-ecosystem-v2.svg)
