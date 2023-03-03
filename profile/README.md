@@ -1,3 +1,3 @@
-#### [ElixirNote](https://ciusji.gitbook.io/elixirnote/) 💥
+#### [ElixirNote](https://ciusji.gitbook.io/elixirnote/) 📚
 
-![](/profile/elixir-ecosystem-v2.svg)
+![](/profile/elixir-ecosystem-v3.svg)
